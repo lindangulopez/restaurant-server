@@ -66,6 +66,14 @@ Creating ⬢ ychaikin-course5... done
 https://ychaikin-course5.herokuapp.com/ | https://git.heroku.com/ychaikin-course5.git
 ```
 
+      !important use
+
+      heroku stack
+      heroku stack:set heroku-18
+
+      detail view https://devcenter.heroku.com/articles/stack
+
+
 ## Step 6 - Deploy The App Using Git
 
 When you created your application, Heroku created an empty remote git repository for you. You can verify that this is indeed so by typing the following `git` command:
